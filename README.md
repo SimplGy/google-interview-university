@@ -1,4 +1,24 @@
-# Google Interview University
+# SDE Interview University
+
+## Unvetted Content
+
+* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://courses.csail.mit.edu/iap/interview/materials.php
+* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.reddit.com/r/dailyprogrammer
+* http://intearview.com/
+* https://www.youtube.com/watch?v=iximqxwq_OE
+* https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+* https://www.topcoder.com/community/data-science/data-science-tutorials/
+
+## Lecture Series
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011
+* http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+
+## Rando Fun
+* http://thebookofshaders.com/
+* http://lumiverse.io/series/neural-networks-demystified
+
+## Math
+* https://betterexplained.com/guides/calculus
 
 ## What is it?
 
