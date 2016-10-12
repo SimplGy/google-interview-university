@@ -12,6 +12,7 @@
 ## Lecture Series
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011
 * http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+* https://www.coursera.org/learn/introduction-to-algorithms
 
 ## Rando Fun
 * http://thebookofshaders.com/
