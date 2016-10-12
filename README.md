@@ -2,8 +2,8 @@
 
 ## Unvetted Content
 
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://courses.csail.mit.edu/iap/interview/materials.php
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.reddit.com/r/dailyprogrammer
+* http://courses.csail.mit.edu/iap/interview/materials.php
+* https://www.reddit.com/r/dailyprogrammer
 * http://intearview.com/
 * https://www.youtube.com/watch?v=iximqxwq_OE
 * https://www.youtube.com/watch?v=rEJzOhC5ZtQ
